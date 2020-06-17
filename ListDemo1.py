@@ -1,0 +1,10 @@
+hari=["1","2","3","amma","nanna","atta"]
+print(hari[1:5])
+print(hari)
+print(hari[-5])
+print(hari[-5:-2])
+teja=["d","e","f"]
+#c=hari+teja
+#print(hari-"1")
+hari[2]="lol"
+print(hari)
