@@ -1,0 +1,17 @@
+a=input()
+b=input()
+#add
+c=a+b
+print(a)
+#sub
+c=a-b
+print(c)
+#mul
+c=a*b
+print(c)
+#div
+c=a/b
+print(c)
+#mdiv
+c=a%b
+print(c)
